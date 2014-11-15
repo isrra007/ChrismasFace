@@ -1,0 +1,2 @@
+C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Core\ChristmasFace.Core.csproj;neutral
+C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\ChristmasFace.Universal.Windows.csproj;neutral

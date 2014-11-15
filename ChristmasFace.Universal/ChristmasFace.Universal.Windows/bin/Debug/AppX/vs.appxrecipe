@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ISRRA</Machine>
+    <WindowsUser>Isrrael</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4e0449f9-0952-4af1-b01f-b94da07fbe0f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>16E85161EB6B9AF21290C0FB0B047A346FCE2907AC292EA9C2781C88657CBBFF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4e0449f9-0952-4af1-b01f-b94da07fbe0f_1.0.0.0_neutral__p24xs1c19q966</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4e0449f9-0952-4af1-b01f-b94da07fbe0f_p24xs1c19q966!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4e0449f9-0952-4af1-b01f-b94da07fbe0f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Isrrael</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-15T19:12:50.655</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\bin\Debug\ChristmasFace.Universal.Windows.exe">
+      <PackagePath>ChristmasFace.Universal.Windows.exe</PackagePath>
+      <Modified>2014-11-15T19:38:09.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Core\bin\Debug\ChristmasFace.Core.dll">
+      <PackagePath>ChristmasFace.Core.dll</PackagePath>
+      <Modified>2014-11-15T19:12:43.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\packages\MvvmCross.HotTuna.CrossCore.3.2.1\lib\win81\Cirrious.CrossCore.dll">
+      <PackagePath>Cirrious.CrossCore.dll</PackagePath>
+      <Modified>2014-11-15T18:50:48.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\packages\MvvmCross.HotTuna.CrossCore.3.2.1\lib\win81\Cirrious.CrossCore.WindowsCommon.dll">
+      <PackagePath>Cirrious.CrossCore.WindowsCommon.dll</PackagePath>
+      <Modified>2014-11-15T18:50:48.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.2.1\lib\win81\Cirrious.MvvmCross.dll">
+      <PackagePath>Cirrious.MvvmCross.dll</PackagePath>
+      <Modified>2014-11-15T18:50:49.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\packages\MvvmCross.HotTuna.CrossCore.3.2.1\lib\win81\Cirrious.MvvmCross.Localization.dll">
+      <PackagePath>Cirrious.MvvmCross.Localization.dll</PackagePath>
+      <Modified>2014-11-15T18:50:48.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.2.1\lib\win81\Cirrious.MvvmCross.WindowsCommon.dll">
+      <PackagePath>Cirrious.MvvmCross.WindowsCommon.dll</PackagePath>
+      <Modified>2014-11-15T18:50:49.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T14:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T14:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T14:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T14:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\ToDo-MvvmCross\_ Windows Store UI.txt">
+      <PackagePath>ToDo-MvvmCross\_ Windows Store UI.txt</PackagePath>
+      <Modified>2014-11-15T18:50:53.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Core\ToDo-MvvmCross\_ Core.txt">
+      <PackagePath>ChristmasFace.Core\ToDo-MvvmCross\_ Core.txt</PackagePath>
+      <Modified>2014-11-15T18:51:01.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-15T19:12:46.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-15T19:12:46.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\bin\Debug\Views\FirstView.xbf">
+      <PackagePath>Views\FirstView.xbf</PackagePath>
+      <Modified>2014-11-15T19:12:46.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\bin\Debug\ChristmasFace.Universal.Windows.xr.xml">
+      <PackagePath>ChristmasFace.Universal.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-15T19:12:46.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-15T19:12:49.319</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

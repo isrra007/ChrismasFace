@@ -1,0 +1,8 @@
+C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Core\bin\Debug\ChristmasFace.Core.dll
+C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Core\bin\Debug\ChristmasFace.Core.pdb
+C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Core\obj\Debug\ChristmasFace.Core.csprojResolveAssemblyReference.cache
+C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Core\obj\Debug\ChristmasFace.Core.dll
+C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Core\obj\Debug\ChristmasFace.Core.pdb

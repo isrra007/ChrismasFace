@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ISRRA</Machine>
+    <WindowsUser>Isrrael</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0e1fbea4-45c1-4388-8257-560a33679a2c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\bin\Debug\ChristmasFace.Universal.WindowsPhone.exe">
+      <PackagePath>ChristmasFace.Universal.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Core\bin\Debug\ChristmasFace.Core.dll">
+      <PackagePath>ChristmasFace.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\packages\MvvmCross.HotTuna.CrossCore.3.2.1\lib\wpa81\Cirrious.CrossCore.dll">
+      <PackagePath>Cirrious.CrossCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\packages\MvvmCross.HotTuna.CrossCore.3.2.1\lib\wpa81\Cirrious.CrossCore.WindowsCommon.dll">
+      <PackagePath>Cirrious.CrossCore.WindowsCommon.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.2.1\lib\wpa81\Cirrious.MvvmCross.dll">
+      <PackagePath>Cirrious.MvvmCross.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\packages\MvvmCross.HotTuna.CrossCore.3.2.1\lib\wpa81\Cirrious.MvvmCross.Localization.dll">
+      <PackagePath>Cirrious.MvvmCross.Localization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.2.1\lib\wpa81\Cirrious.MvvmCross.WindowsCommon.dll">
+      <PackagePath>Cirrious.MvvmCross.WindowsCommon.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\ToDo-MvvmCross\_ Windows Store UI.txt">
+      <PackagePath>ToDo-MvvmCross\_ Windows Store UI.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Core\ToDo-MvvmCross\_ Core.txt">
+      <PackagePath>ChristmasFace.Core\ToDo-MvvmCross\_ Core.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\bin\Debug\Views\FirstView.xbf">
+      <PackagePath>Views\FirstView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\bin\Debug\ChristmasFace.Universal.WindowsPhone.xr.xml">
+      <PackagePath>ChristmasFace.Universal.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Isrrael\Documents\Visual Studio 2013\Projects\Mvvmx\ChristmasFace\ChristmasFace\ChristmasFace.Universal\ChristmasFace.Universal.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
